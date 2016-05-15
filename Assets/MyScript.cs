@@ -6,6 +6,7 @@ public class MyScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		print ("You found the hidden gem");
+		print ("Something changed");
 	
 	}
 	
